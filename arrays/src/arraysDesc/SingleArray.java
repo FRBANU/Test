@@ -25,12 +25,11 @@ public class SingleArray {
 	     
 	     for(int i=0;i<a.length;i++) {
 	    	 System.out.println(a[i]);
-	     }*/
+	     }
 	    		 
          /*int b[] = {2,3,5,10,18};
          for(int i=0;i<b.length;i++) {
         	 System.out.println(b[i]);
          }*/
-
-	
 }
+	
